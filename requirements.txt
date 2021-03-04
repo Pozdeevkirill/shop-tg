@@ -1,5 +1,4 @@
 pytelegrambotapi
-shelve
 sqlite3
 SimpleQIWI
 coinbase
